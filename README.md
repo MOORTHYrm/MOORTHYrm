@@ -4,6 +4,8 @@ Web Developer@ SmartCreations
 🔭 Here's my portfolio
 🌱 I’m currently learning Devops Engineer
 👯 I’m looking to collaborate on Aws and Devops Tools
+
+
 💬 Ask me about Tech
 
 🏢 I’m currently working in  as Sr. DevOps Engineer
@@ -17,6 +19,8 @@ Web Developer@ SmartCreations
 ⚡ Fun fact We guys automate stuff
 
 👨‍💻 Some of the projects I have worked recently
+
+
 📦 Terraform Templates for setting up Infrastructure over AWS - Github
 
 📦 Docker Deployment through docker-compose - python and mysql - Github
