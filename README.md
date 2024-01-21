@@ -2,7 +2,8 @@ Hi there 👋 It's me MoorthyRm
 Web Developer@ SmartCreations
 
 🔭 Here's my portfolio
-🌱 I’m currently learning Devops Engineer
+
+
 👯 I’m looking to collaborate on Aws and Devops Tools
 
 
