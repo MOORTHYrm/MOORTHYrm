@@ -1,5 +1,5 @@
 Hi there 👋 It's me MoorthyRm
-Web Developer@ SmartCreations
+Aws | Devops Engineer 
 
 🔭 Here's my portfolio
 
@@ -15,7 +15,7 @@ Web Developer@ SmartCreations
 
 💬 Ask me about DevOps Tools and Practices
 
-📫 You can reach me at sachinmoorthy938@gmail.com
+📫 You can reach me at moorthyrtmp@gmail.com
 
 ⚡ Fun fact We guys automate stuff
 
